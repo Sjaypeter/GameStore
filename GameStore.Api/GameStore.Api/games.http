@@ -24,3 +24,7 @@ Content-Type: : application/json
     "price": 9.99,
     "releaseDate": "1992-02-01"
 }
+
+###
+DELETE http://localhost:5140/games/2
+
