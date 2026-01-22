@@ -13,3 +13,6 @@ Content-Type: : application/json
     "price": 19.99,
     "releaseDate": "2011-11-18"
 }
+
+###
+PUT http://localhost:5140/games/1
