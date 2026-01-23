@@ -27,3 +27,5 @@ C:\Users\sjayp\GameStore\GameStore.Api\GameStore.Api\obj\Debug\net10.0\GameStore
 C:\Users\sjayp\GameStore\GameStore.Api\GameStore.Api\obj\Debug\net10.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\sjayp\GameStore\GameStore.Api\GameStore.Api\obj\Debug\net10.0\ref\GameStore.Api.dll
 C:\Users\sjayp\GameStore\GameStore.Api\GameStore.Api\obj\Debug\net10.0\GameStore.Api.sourcelink.json
+C:\Users\sjayp\GameStore\GameStore.Api\GameStore.Api\obj\Debug\net10.0\GameStore.Api.csproj.AssemblyReference.cache
+C:\Users\sjayp\GameStore\GameStore.Api\GameStore.Api\obj\Debug\net10.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
