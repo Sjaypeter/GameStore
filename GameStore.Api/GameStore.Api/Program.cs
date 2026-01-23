@@ -12,7 +12,7 @@ var app = builder.Build();
 
 app.MapGamesEndpoints();
 
-AppWinStyle.MigrateDb();
+App.MigrateDb();
 
 
 app.Run();
